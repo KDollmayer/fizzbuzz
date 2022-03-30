@@ -1,0 +1,1 @@
+const {stringValidation} = require("./stingValidate")
